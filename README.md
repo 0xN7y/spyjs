@@ -4,7 +4,7 @@ Simple js sample to spy on browser, when reflacted xss found
 
 Start server to serve js
 ```bash
-python3 -m http.server 8080
+python3 -m http.server lport
 ```
 
 Do on victim
