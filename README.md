@@ -24,7 +24,7 @@ python3 listen.py
 ![Screenshot](/imgs/recv.png)
 
 # version next
-For future version (may be) i mprowould like to add little ivemnt and make it simulate victims web activity in real time mirrored, instade of receiving raw html
+For future version (may be) i would like to add little improvemnt and make it simulate victims web activity in real time mirrored, instade of receiving raw html
 went to simulate it.
 
 
